@@ -41,5 +41,11 @@ Here, macapp is the filename (without .py), and app is the FastAPI instance insi
 The --reload flag enables auto-reload on code changes, which is useful during development.
 
 ## Next Steps:
-Open your browser and navigate to http://127.0.0.1:8000 to see your API in action.
+Open your browser and navigate to the page to see your API in action.
+
+http://127.0.0.1:8000
+http://127.0.0.1:8000/av
+http://127.0.0.1:8000/pkv
+http://127.0.0.1:8000/pyv
+http://127.0.0.1:8000/tfv
 
