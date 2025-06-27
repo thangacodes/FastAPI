@@ -31,7 +31,7 @@ pip list | grep fastapi
 
 pip list | grep uvicorn
 
-# Running Your FastAPI Application:
+# Running FastAPI Application:
 Once you have macapp.py ready, you can run your FastAPI app locally with uvicorn:
 
 uvicorn macapp:app --reload
