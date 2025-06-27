@@ -45,7 +45,9 @@ Open your browser and navigate to the page to see your API in action.
 
 http://127.0.0.1:8000/ 
 
-http://127.0.0.1:8000/av
+http://127.0.0.1:8000/root_page
+
+http://127.0.0.1:8000/ansv
 
 http://127.0.0.1:8000/pkv
 
