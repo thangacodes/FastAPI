@@ -47,7 +47,18 @@ The --reload flag enables auto-reload on code changes, which is useful during de
 ## Next Steps:
 Open your browser and navigate to the page to see your API in action.
 
-http://127.0.0.1:8000/ 
+<a href="http://127.0.0.1:8000/" target="_blank">landing</a>
+
+<a href="http://127.0.0.1:8000/root_page" target="_blank">root_page</a>
+
+<a href="http://127.0.0.1:8000/ansv" target="_blank">ansv</a>
+
+<a href="http://127.0.0.1:8000/pkv" target="_blank">pkv</a>
+
+<a href="http://127.0.0.1:8000/pyv" target="_blank">pyv</a>
+
+<a href="http://127.0.0.1:8000/tfv" target="_blank">tfv</a>
+
 
 http://127.0.0.1:8000/root_page
 
