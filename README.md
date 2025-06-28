@@ -36,6 +36,10 @@ Once you have macapp.py ready, you can run your FastAPI app locally with uvicorn
 
 uvicorn macapp:app --reload
 
+If you are running a FastAPI application with Uvicorn on an EC2 instance using a public IP address, you should run the command as follows:
+
+uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+
 Here, macapp is the filename (without .py), and app is the FastAPI instance inside that file.
 
 The --reload flag enables auto-reload on code changes, which is useful during development.
