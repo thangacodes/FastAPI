@@ -34,7 +34,7 @@ pip list | grep uvicorn
 # Running FastAPI Application:
 Once you have macapp.py ready, you can run your FastAPI app locally with uvicorn:
 
-uvicorn macapp:app --reload
+uvicorn macapp_check:app --reload
 
 If you are running a FastAPI application with Uvicorn on an EC2 instance using a public IP address, you should run the command as follows:
 
