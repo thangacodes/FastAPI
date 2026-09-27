@@ -1,5 +1,5 @@
 # FastAPI Service-to-Service
-``
+```
 FastAPI = creates APIs
 httpx   = calls APIs
 ```
